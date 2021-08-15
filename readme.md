@@ -1,4 +1,3 @@
 Aula de Git
 
-
-Algumas alterações realizadas.
+Algumas alteracoes realizadas.
